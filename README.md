@@ -1,5 +1,15 @@
 # vue-project
 
+## Prerequirement
+```
+npm install -g @vue/cli
+```
+
+```
+vue --version          
+3.7.0
+```
+
 ## Project setup
 ```
 npm install
